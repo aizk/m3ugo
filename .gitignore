@@ -1,0 +1,6 @@
+*.ts
+.DS_Store
+.idea
+bd
+bd_review
+vendor
